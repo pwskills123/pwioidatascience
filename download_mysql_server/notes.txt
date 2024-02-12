@@ -1,0 +1,1 @@
+1.  follow the steps to download mysql given in ppt
