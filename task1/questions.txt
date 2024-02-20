@@ -1,0 +1,39 @@
+1. What is the average sales amount per order?
+
+Calculate the mean sales amount across all orders.
+
+2. How many unique customers are there in the dataset?
+
+Determine the number of unique customer IDs.
+
+3. Which top 5 states have the highest total sales?
+
+Aggregate sales by state and rank them to find the top 5.
+
+4. What is the distribution of sales across different shipping modes?
+
+Group the data by ship mode to analyze sales distribution.
+
+5. Which product sub-category has the lowest average profit?
+
+Calculate the average profit for each sub-category and identify the one with the lowest value.
+
+6.How does the discount level affect the average order quantity?
+
+Analyze the relationship between discount levels and the average quantity per order.
+
+7. What are the top 3 most profitable products?
+
+Sort the products by profit and identify the top 3.
+
+8. Which month of the year has the highest total sales?
+
+Extract the month from the order date, aggregate sales by month, and identify the month with the highest total sales.
+
+9. What is the profit ratio (profit/sales) for each category, and which category has the highest ratio?
+
+Calculate the profit ratio for each category and identify the one with the highest ratio.
+
+10. How many orders were placed in each segment (Consumer, Corporate, Home Office) annually?
+
+Group the data by segment and order year to count the number of orders in each segment per year.
