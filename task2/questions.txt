@@ -1,0 +1,10 @@
+How many unique brands are there in the dataset, and which brand has the most listings?
+What is the average selling price of vehicles by fuel type?
+Show the distribution of vehicles by transmission type and fuel type. How do manual and automatic vehicles compare in terms of fuel type prevalence?
+What is the relationship between vehicle age and selling price? Plot a scatter plot to visualize this relationship.
+Calculate the average mileage by vehicle age group (e.g., 0-5 years, 6-10 years, 11-15 years, etc.). Is there a trend that suggests older vehicles have higher or lower mileage?
+What are the top 5 car models in terms of the number of listings? How do their average selling prices compare?
+For each seller type, what is the average km_driven and how does it relate to the average selling price?
+Is there a significant difference in the average selling price of vehicles with 5 seats compared to those with more than 5 seats?
+Create a new column that categorizes cars into 'Low', 'Medium', and 'High' power, based on max_power. Define the categories as follows: Low (<75 HP), Medium (75-150 HP), and High (>150 HP). What is the average selling price for each power category?
+What is the correlation between engine size and max power? Also, visualize this relationship using an appropriate plot.
